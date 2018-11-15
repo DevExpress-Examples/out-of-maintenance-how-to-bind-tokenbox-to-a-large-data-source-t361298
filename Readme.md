@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DXWebApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebApplication1/Controllers/HomeController.vb))
+* [Product.cs](./CS/DXWebApplication1/Models/Product.cs) (VB: [Product.vb](./VB/DXWebApplication1/Models/Product.vb))
+* [Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to bind TokenBox to a large data source
 
 
