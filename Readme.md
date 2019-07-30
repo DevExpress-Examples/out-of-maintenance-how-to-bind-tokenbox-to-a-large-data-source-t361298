@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to bind TokenBox to a large data source
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t361298)**
+**[[Run Online]](https://codecentral.devexpress.com/t361298/)**
 <!-- run online end -->
 
 
